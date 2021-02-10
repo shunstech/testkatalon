@@ -1,0 +1,89 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>1560b94f-4928-4808-8361-85a141001002</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#F9CB11</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M11.045 0c3.767 0 7.681 1.453 10.712 3.582l.333.24V15.35h3.512v-5.244a2.553 2.553 0 01-1.7-2.403 2.552 2.552 0 012.55-2.549A2.552 2.552 0 0129 7.704a2.552 2.552 0 01-1.537 2.338l-.162.064v7.792a2.552 2.552 0 01-2.382 2.544l-.167.005H22.09V29H0V3.821C3.074 1.562 7.14 0 11.045 0zm2.549 25.545H8.496V27.3h5.098v-1.756zm6.797-3.399H1.699v5.155h5.098v-3.455h8.496V27.3h5.098v-5.155zm0-8.496h-5.098v6.797h5.098V13.65zm-6.797 0H8.496v6.797h5.098V13.65zm-6.797 0H1.699v6.797h5.098V13.65zm12.116 1.48v3.783h-1.891V15.13h1.891zm-6.935 0v3.783h-1.891V15.13h1.891zm-6.935 0v3.783h-1.89V15.13h1.89zm20.559 1.919H22.09v1.699h2.662c.432 0 .79-.325.843-.743l.007-.107v-.85zM11.045 1.699C6.747 1.7 3.042 3.83 1.8 4.63l-.1.066v7.256h18.69V4.695C19.26 3.952 15.467 1.7 11.046 1.7zm4.085 3.975v5.043H6.935V5.674h8.195zm-1.639 1.681H8.574v1.681h4.917v-1.68zm12.96-.501a.85.85 0 000 1.699.85.85 0 000-1.7z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__Page-sc-5xhbmh-2 dKHfcF&quot;]/div[@class=&quot;templatestyles__Desktop-sc-1wrihlj-6 cLplfU&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 templatestyles__CasinoContainer-sc-1wrihlj-2 lbCflY&quot;]/div[@class=&quot;Dashboardstyles__Root-sc-8l34v7-0 dImwYj&quot;]/div[@class=&quot;Dashboardstyles__Row-sc-8l34v7-14 ieDHNS&quot;]/div[@class=&quot;Navigationstyles__MenuWrapper-p060u5-0 fejVwI&quot;]/div[@class=&quot;Navigationstyles__Menu-p060u5-1 fRbAGx&quot;]/a[3]/svg[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>1560b94f-4928-4808-8361-85a141001002</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#F9CB11</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M11.045 0c3.767 0 7.681 1.453 10.712 3.582l.333.24V15.35h3.512v-5.244a2.553 2.553 0 01-1.7-2.403 2.552 2.552 0 012.55-2.549A2.552 2.552 0 0129 7.704a2.552 2.552 0 01-1.537 2.338l-.162.064v7.792a2.552 2.552 0 01-2.382 2.544l-.167.005H22.09V29H0V3.821C3.074 1.562 7.14 0 11.045 0zm2.549 25.545H8.496V27.3h5.098v-1.756zm6.797-3.399H1.699v5.155h5.098v-3.455h8.496V27.3h5.098v-5.155zm0-8.496h-5.098v6.797h5.098V13.65zm-6.797 0H8.496v6.797h5.098V13.65zm-6.797 0H1.699v6.797h5.098V13.65zm12.116 1.48v3.783h-1.891V15.13h1.891zm-6.935 0v3.783h-1.891V15.13h1.891zm-6.935 0v3.783h-1.89V15.13h1.89zm20.559 1.919H22.09v1.699h2.662c.432 0 .79-.325.843-.743l.007-.107v-.85zM11.045 1.699C6.747 1.7 3.042 3.83 1.8 4.63l-.1.066v7.256h18.69V4.695C19.26 3.952 15.467 1.7 11.046 1.7zm4.085 3.975v5.043H6.935V5.674h8.195zm-1.639 1.681H8.574v1.681h4.917v-1.68zm12.96-.501a.85.85 0 000 1.699.85.85 0 000-1.7z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__Page-sc-5xhbmh-2 dKHfcF&quot;]/div[@class=&quot;templatestyles__Desktop-sc-1wrihlj-6 cLplfU&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 templatestyles__CasinoContainer-sc-1wrihlj-2 lbCflY&quot;]/div[@class=&quot;Dashboardstyles__Root-sc-8l34v7-0 dImwYj&quot;]/div[@class=&quot;Dashboardstyles__Row-sc-8l34v7-14 ieDHNS&quot;]/div[@class=&quot;Navigationstyles__MenuWrapper-p060u5-0 fejVwI&quot;]/div[@class=&quot;Navigationstyles__Menu-p060u5-1 fRbAGx&quot;]/a[3]/svg[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

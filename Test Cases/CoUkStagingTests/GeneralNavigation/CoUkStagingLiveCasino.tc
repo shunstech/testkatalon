@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CoUkStagingLiveCasino</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88799a7d-bc58-4570-ad66-fb8d82aa9d57</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CoUkStagingLiveCasino</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88799a7d-bc58-4570-ad66-fb8d82aa9d57</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

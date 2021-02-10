@@ -1,0 +1,111 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>7dc10c5e-a573-4427-9642-2ac48ba06e1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Account-sc-8m1q4x-5 cFqHHg&quot;]/div[@class=&quot;Sessionstyles__LoggedIn-sc-4peflh-1 kKjNgv&quot;]/div[@class=&quot;Sessionstyles__ProfileMenuWrapper-sc-4peflh-2 czCdjI&quot;]/button[@class=&quot;Sessionstyles__ProfileMenuBtn-sc-4peflh-4 daZLiF&quot;]/svg[1][count(. | //svg[@width = '25' and @height = '26' and @viewBox = '0 0 25 27']) = count(//svg[@width = '25' and @height = '26' and @viewBox = '0 0 25 27'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>44</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 422 180</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Logo-sc-8m1q4x-3 eJvmEA&quot;]/a[1]/svg[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>7dc10c5e-a573-4427-9642-2ac48ba06e1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Account-sc-8m1q4x-5 cFqHHg&quot;]/div[@class=&quot;Sessionstyles__LoggedIn-sc-4peflh-1 kKjNgv&quot;]/div[@class=&quot;Sessionstyles__ProfileMenuWrapper-sc-4peflh-2 czCdjI&quot;]/button[@class=&quot;Sessionstyles__ProfileMenuBtn-sc-4peflh-4 daZLiF&quot;]/svg[1][count(. | //svg[@width = '25' and @height = '26' and @viewBox = '0 0 25 27']) = count(//svg[@width = '25' and @height = '26' and @viewBox = '0 0 25 27'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>44</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 422 180</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Logo-sc-8m1q4x-3 eJvmEA&quot;]/a[1]/svg[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

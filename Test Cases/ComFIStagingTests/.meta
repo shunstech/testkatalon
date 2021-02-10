@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderEntity>
+   <description>folder</description>
+   <name>ComFIStagingTests</name>
+   <tag></tag>
+   <folderType>TESTCASE</folderType>
+</FolderEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderEntity>
+   <description>folder</description>
+   <name>ComFIStagingTests</name>
+   <tag></tag>
+   <folderType>TESTCASE</folderType>
+</FolderEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

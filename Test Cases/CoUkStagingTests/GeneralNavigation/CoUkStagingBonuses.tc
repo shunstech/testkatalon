@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CoUkStagingBonuses</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a792ad36-777d-4c3c-ae98-ab4ebb5fd41a</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CoUkStagingBonuses</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a792ad36-777d-4c3c-ae98-ab4ebb5fd41a</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

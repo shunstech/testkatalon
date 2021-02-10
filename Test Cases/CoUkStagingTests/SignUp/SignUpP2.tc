@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SignUpP2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21a4f864-7746-46e9-8626-f14299130859</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SignUpP2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21a4f864-7746-46e9-8626-f14299130859</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

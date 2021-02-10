@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CoUkStagingAccountActivity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a709ebfc-9e93-403c-b52f-7115b2d03b0e</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CoUkStagingAccountActivity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a709ebfc-9e93-403c-b52f-7115b2d03b0e</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

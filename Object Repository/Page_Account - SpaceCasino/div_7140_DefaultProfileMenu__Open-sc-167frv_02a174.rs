@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_7140_DefaultProfileMenu__Open-sc-167frv_02a174</name>
+   <tag></tag>
+   <elementGuidId>7a34f10f-6e4c-42ea-b2a7-966e259911df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/div[@class=&quot;Shared__Box-sc-1eqascn-0 Layout__VerticalLayout-sc-19fsl89-0 jepjbu biXBmC&quot;]/div[1]/div[@class=&quot;Shared__Box-sc-1eqascn-0 cGvfHO&quot;]/div[@class=&quot;Shared__Container-sc-1eqascn-4 eptvIz&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 gGKhgm&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 ihycaX&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 gkVBOY&quot;]/div[@class=&quot;DefaultProfileMenu__Open-sc-167frvj-5 iCcmGc&quot;][count(. | //div[@title = 'Profile Menu' and @tabindex = '0' and @role = 'button' and @class = 'DefaultProfileMenu__Open-sc-167frvj-5 iCcmGc']) = count(//div[@title = 'Profile Menu' and @tabindex = '0' and @role = 'button' and @class = 'DefaultProfileMenu__Open-sc-167frvj-5 iCcmGc'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div/div/div[2]/div[3]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.DefaultProfileMenu__Open-sc-167frvj-5.iCcmGc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Profile Menu</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DefaultProfileMenu__Open-sc-167frvj-5 iCcmGc</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;Shared__Box-sc-1eqascn-0 Layout__VerticalLayout-sc-19fsl89-0 jepjbu biXBmC&quot;]/div[1]/div[@class=&quot;Shared__Box-sc-1eqascn-0 cGvfHO&quot;]/div[@class=&quot;Shared__Container-sc-1eqascn-4 eptvIz&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 gGKhgm&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 ihycaX&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 gkVBOY&quot;]/div[@class=&quot;DefaultProfileMenu__Open-sc-167frvj-5 iCcmGc&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/div/div[2]/div[3]/div/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£71.40'])[1]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::div[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::div[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DotComCasino</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca507166-5c53-442a-9a46-dfd588446c0d</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DotComCasino</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca507166-5c53-442a-9a46-dfd588446c0d</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

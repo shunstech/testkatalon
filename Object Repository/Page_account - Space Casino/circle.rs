@@ -1,0 +1,101 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle</name>
+   <tag></tag>
+   <elementGuidId>078dfa8e-3b92-4160-83f4-4f64cd543cbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>10.5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>5.25</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>5.25</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Account-sc-8m1q4x-5 cFqHHg&quot;]/div[@class=&quot;Sessionstyles__LoggedOut-sc-4peflh-0 hmDbSu&quot;]/div[@class=&quot;Sessionstyles__ProfileMenuWrapper-sc-4peflh-2 dgLVHd&quot;]/button[@class=&quot;Sessionstyles__ProfileMenuBtn-sc-4peflh-4 daZLiF&quot;]/svg[1]/g[1]/circle[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle</name>
+   <tag></tag>
+   <elementGuidId>078dfa8e-3b92-4160-83f4-4f64cd543cbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>10.5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>5.25</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>5.25</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Account-sc-8m1q4x-5 cFqHHg&quot;]/div[@class=&quot;Sessionstyles__LoggedOut-sc-4peflh-0 hmDbSu&quot;]/div[@class=&quot;Sessionstyles__ProfileMenuWrapper-sc-4peflh-2 dgLVHd&quot;]/button[@class=&quot;Sessionstyles__ProfileMenuBtn-sc-4peflh-4 daZLiF&quot;]/svg[1]/g[1]/circle[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ComLiveHeaderMenus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee9dc93a-0f6a-4750-95bc-1311fd6951c8</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ComLiveHeaderMenus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee9dc93a-0f6a-4750-95bc-1311fd6951c8</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

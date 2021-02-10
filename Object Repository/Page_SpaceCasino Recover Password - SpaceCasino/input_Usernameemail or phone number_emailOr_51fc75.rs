@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Usernameemail or phone number_emailOr_51fc75</name>
+   <tag></tag>
+   <elementGuidId>e75bf84b-1f66-4b91-8912-f6dd71794bf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='emailOrUsername']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;emailOrUsername&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>emailOrUsername</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DefaultTextField__StyledInput-q7wzxg-0 blyLvM</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;Shared__Box-sc-1eqascn-0 Layout__VerticalLayout-sc-19fsl89-0 jepjbu biXBmC&quot;]/div[@class=&quot;Layout__MainContainer-sc-19fsl89-2 eTSFkI&quot;]/div[@class=&quot;Layout__Main-sc-19fsl89-3 gNGaLf&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 cuLZRw&quot;]/div[@class=&quot;Shared__Container-sc-1eqascn-4 fnuKgS&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 iqPbJW&quot;]/form[1]/div[@class=&quot;Shared__Box-sc-1eqascn-0 bmHmzr&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 hAepHh&quot;]/input[@class=&quot;DefaultTextField__StyledInput-q7wzxg-0 blyLvM&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='emailOrUsername']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[2]/div/div/div/div/form/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+   </webElementXpaths>
+</WebElementEntity>

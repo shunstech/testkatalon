@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle</name>
+   <tag></tag>
+   <elementGuidId>29ad38c6-323b-44ab-802d-e3af7b0e8972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>10.5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>5.25</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>5.25</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;Shared__Box-sc-1eqascn-0 Layout__VerticalLayout-sc-19fsl89-0 hokJcH djuQBb&quot;]/div[1]/div[@class=&quot;Shared__Box-sc-1eqascn-0 cvZnKT&quot;]/div[@class=&quot;Shared__Container-sc-1eqascn-4 SEHle&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 LeeSf&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 kQlGMy&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 duLYth&quot;]/div[@class=&quot;DefaultProfileMenu__Open-sc-167frvj-5 HDqvE&quot;]/svg[@class=&quot;Icon-sc-1uj1ima-0 bxPyTz&quot;]/g[1]/circle[1]</value>
+   </webElementProperties>
+</WebElementEntity>

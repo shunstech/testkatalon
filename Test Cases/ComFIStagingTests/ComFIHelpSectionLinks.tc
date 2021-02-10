@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ComFIHelpSectionLinks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a280eba-08c5-4307-8e0a-f9e3ca9ded2c</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ComFIHelpSectionLinks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a280eba-08c5-4307-8e0a-f9e3ca9ded2c</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FailedSkrill</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bacc5a28-d761-4f79-a343-3bbc712d46c6</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FailedSkrill</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bacc5a28-d761-4f79-a343-3bbc712d46c6</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

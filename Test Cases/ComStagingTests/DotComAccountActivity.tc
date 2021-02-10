@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DotComAccountActivity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c94bd5b6-475b-49fc-8a03-c3d30386df72</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DotComAccountActivity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c94bd5b6-475b-49fc-8a03-c3d30386df72</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

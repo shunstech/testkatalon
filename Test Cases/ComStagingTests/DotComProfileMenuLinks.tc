@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DotComProfileMenuLinks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3c56334-3bcd-4530-9c23-2e738d6e9fdf</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DotComProfileMenuLinks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3c56334-3bcd-4530-9c23-2e738d6e9fdf</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

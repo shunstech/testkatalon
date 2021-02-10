@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DotCom500Promo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fca640f9-e199-451e-8230-7625009fc822</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DotCom500Promo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fca640f9-e199-451e-8230-7625009fc822</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

@@ -1,0 +1,89 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>b24deca7-e835-4416-8266-d74367dd47a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#08156E</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M16.848 25L33.696 8.877 27.672 0H6.024L0 8.877 16.848 25zm3.316-15.033l-3.316 9.828-3.316-9.828h6.632zm-6.02-2.492l2.704-3.983 2.703 3.983h-5.406zm8.692 2.492h6.18l-9.27 9.157 3.09-9.157zm1.454-2.492l2.703-3.983 2.703 3.983H24.29zm-2.37-1l-2.703-3.983h5.406L21.92 6.475zm-10.145 0L9.072 2.492h5.406l-2.703 3.983zm-2.369 1H4l2.703-3.983 2.703 3.983zm1.454 2.492l3.09 9.157-9.27-9.157h6.18z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__Page-sc-5xhbmh-2 dKHfcF&quot;]/div[@class=&quot;templatestyles__Desktop-sc-1wrihlj-6 cLplfU&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 templatestyles__CasinoContainer-sc-1wrihlj-2 lbCflY&quot;]/div[@class=&quot;Dashboardstyles__Root-sc-8l34v7-0 dImwYj&quot;]/div[@class=&quot;Dashboardstyles__Row-sc-8l34v7-14 ieDHNS&quot;]/div[@class=&quot;Navigationstyles__MenuWrapper-p060u5-0 fejVwI&quot;]/div[@class=&quot;Navigationstyles__Menu-p060u5-1 fRbAGx&quot;]/a[1]/svg[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>b24deca7-e835-4416-8266-d74367dd47a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#08156E</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M16.848 25L33.696 8.877 27.672 0H6.024L0 8.877 16.848 25zm3.316-15.033l-3.316 9.828-3.316-9.828h6.632zm-6.02-2.492l2.704-3.983 2.703 3.983h-5.406zm8.692 2.492h6.18l-9.27 9.157 3.09-9.157zm1.454-2.492l2.703-3.983 2.703 3.983H24.29zm-2.37-1l-2.703-3.983h5.406L21.92 6.475zm-10.145 0L9.072 2.492h5.406l-2.703 3.983zm-2.369 1H4l2.703-3.983 2.703 3.983zm1.454 2.492l3.09 9.157-9.27-9.157h6.18z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__Page-sc-5xhbmh-2 dKHfcF&quot;]/div[@class=&quot;templatestyles__Desktop-sc-1wrihlj-6 cLplfU&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 templatestyles__CasinoContainer-sc-1wrihlj-2 lbCflY&quot;]/div[@class=&quot;Dashboardstyles__Root-sc-8l34v7-0 dImwYj&quot;]/div[@class=&quot;Dashboardstyles__Row-sc-8l34v7-14 ieDHNS&quot;]/div[@class=&quot;Navigationstyles__MenuWrapper-p060u5-0 fejVwI&quot;]/div[@class=&quot;Navigationstyles__Menu-p060u5-1 fRbAGx&quot;]/a[1]/svg[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

@@ -1,0 +1,103 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>66546f05-90e3-4220-b45b-666cdff7b5ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#FFF</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#SpaceCasinoLogo_svg__a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(36.742)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__SportsRoot-sc-5xhbmh-1 ghtrMk&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Logo-sc-8m1q4x-3 eJvmEA&quot;]/a[1]/svg[1]/g[1]/use[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>66546f05-90e3-4220-b45b-666cdff7b5ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#FFF</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#SpaceCasinoLogo_svg__a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(36.742)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__SportsRoot-sc-5xhbmh-1 ghtrMk&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Logo-sc-8m1q4x-3 eJvmEA&quot;]/a[1]/svg[1]/g[1]/use[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

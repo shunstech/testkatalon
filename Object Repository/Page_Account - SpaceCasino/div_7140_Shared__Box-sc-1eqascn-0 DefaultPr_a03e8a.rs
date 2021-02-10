@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_7140_Shared__Box-sc-1eqascn-0 DefaultPr_a03e8a</name>
+   <tag></tag>
+   <elementGuidId>00cbdef7-5748-45c5-8094-b2f103ad78a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Shared__Box-sc-1eqascn-0.DefaultProfileMenu__Close-sc-167frvj-4.dBjgAs.gHszZw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div/div/div[2]/div[3]/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Close Menu</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Shared__Box-sc-1eqascn-0 DefaultProfileMenu__Close-sc-167frvj-4 dBjgAs gHszZw</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;Shared__Box-sc-1eqascn-0 Layout__VerticalLayout-sc-19fsl89-0 jepjbu biXBmC&quot;]/div[1]/div[@class=&quot;Shared__Box-sc-1eqascn-0 cGvfHO&quot;]/div[@class=&quot;Shared__Container-sc-1eqascn-4 eptvIz&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 gGKhgm&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 ihycaX&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 gkVBOY&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 Shared__Overlay-sc-1eqascn-5 feDCVN fhvegF&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 DefaultProfileMenu__Close-sc-167frvj-4 dBjgAs gHszZw&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/div/div[2]/div[3]/div/div[2]/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ComLiveSignInOut</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>deec394a-772c-4692-9be4-5dd82ef53caf</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ComLiveSignInOut</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>deec394a-772c-4692-9be4-5dd82ef53caf</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

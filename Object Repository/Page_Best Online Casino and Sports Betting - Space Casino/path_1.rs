@@ -1,0 +1,111 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>a62ef7c0-73ea-442d-9000-f5aa79da9a38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/footer[@class=&quot;Footerstyles__Root-sdvvou-0 cMvVig&quot;]/div[@class=&quot;FooterIconsstyles__Root-zkk858-0 hVgVaE&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 jdttix&quot;]/div[@class=&quot;FooterIconsstyles__Wrapper-zkk858-1 jxUrzX&quot;]/div[@class=&quot;FooterIconsstyles__Social-zkk858-3 kPTPoo&quot;]/div[1]/p[1]/a[2]/svg[1]/path[1][count(. | //path[@d = 'M20.613 11.46c.006.147.009.293.009.44 0 4.496-3.333 9.679-9.428 9.679a9.204 9.204 0 0 1-5.08-1.528 6.54 6.54 0 0 0 4.906-1.409c-1.45-.028-2.674-1.011-3.095-2.362a3.236 3.236 0 0 0 1.497-.058c-1.517-.313-2.659-1.688-2.659-3.335v-.043c.447.254.958.407 1.501.425a3.427 3.427 0 0 1-1.474-2.831c0-.624.163-1.208.449-1.71 1.634 2.058 4.076 3.411 6.83 3.553a3.494 3.494 0 0 1-.086-.775c0-1.878 1.484-3.4 3.314-3.4a3.27 3.27 0 0 1 2.418 1.073 6.514 6.514 0 0 0 2.105-.825 3.397 3.397 0 0 1-1.458 1.882 6.514 6.514 0 0 0 1.904-.536 6.836 6.836 0 0 1-1.653 1.76M13.989.686C6.727.685.839 6.73.839 14.182c0 7.454 5.888 13.496 13.15 13.496 7.261 0 13.147-6.042 13.147-13.496C27.136 6.73 21.25.685 13.99.685' and @fill = '#fff' and @fill-rule = 'evenodd']) = count(//path[@d = 'M20.613 11.46c.006.147.009.293.009.44 0 4.496-3.333 9.679-9.428 9.679a9.204 9.204 0 0 1-5.08-1.528 6.54 6.54 0 0 0 4.906-1.409c-1.45-.028-2.674-1.011-3.095-2.362a3.236 3.236 0 0 0 1.497-.058c-1.517-.313-2.659-1.688-2.659-3.335v-.043c.447.254.958.407 1.501.425a3.427 3.427 0 0 1-1.474-2.831c0-.624.163-1.208.449-1.71 1.634 2.058 4.076 3.411 6.83 3.553a3.494 3.494 0 0 1-.086-.775c0-1.878 1.484-3.4 3.314-3.4a3.27 3.27 0 0 1 2.418 1.073 6.514 6.514 0 0 0 2.105-.825 3.397 3.397 0 0 1-1.458 1.882 6.514 6.514 0 0 0 1.904-.536 6.836 6.836 0 0 1-1.653 1.76M13.989.686C6.727.685.839 6.73.839 14.182c0 7.454 5.888 13.496 13.15 13.496 7.261 0 13.147-6.042 13.147-13.496C27.136 6.73 21.25.685 13.99.685' and @fill = '#fff' and @fill-rule = 'evenodd'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M20.613 11.46c.006.147.009.293.009.44 0 4.496-3.333 9.679-9.428 9.679a9.204 9.204 0 0 1-5.08-1.528 6.54 6.54 0 0 0 4.906-1.409c-1.45-.028-2.674-1.011-3.095-2.362a3.236 3.236 0 0 0 1.497-.058c-1.517-.313-2.659-1.688-2.659-3.335v-.043c.447.254.958.407 1.501.425a3.427 3.427 0 0 1-1.474-2.831c0-.624.163-1.208.449-1.71 1.634 2.058 4.076 3.411 6.83 3.553a3.494 3.494 0 0 1-.086-.775c0-1.878 1.484-3.4 3.314-3.4a3.27 3.27 0 0 1 2.418 1.073 6.514 6.514 0 0 0 2.105-.825 3.397 3.397 0 0 1-1.458 1.882 6.514 6.514 0 0 0 1.904-.536 6.836 6.836 0 0 1-1.653 1.76M13.989.686C6.727.685.839 6.73.839 14.182c0 7.454 5.888 13.496 13.15 13.496 7.261 0 13.147-6.042 13.147-13.496C27.136 6.73 21.25.685 13.99.685</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#fff</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/footer[@class=&quot;Footerstyles__Root-sdvvou-0 cMvVig&quot;]/div[@class=&quot;FooterIconsstyles__Root-zkk858-0 hVgVaE&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 jdttix&quot;]/div[@class=&quot;FooterIconsstyles__Wrapper-zkk858-1 jxUrzX&quot;]/div[@class=&quot;FooterIconsstyles__Social-zkk858-3 kPTPoo&quot;]/div[1]/p[1]/a[2]/svg[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>a62ef7c0-73ea-442d-9000-f5aa79da9a38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/footer[@class=&quot;Footerstyles__Root-sdvvou-0 cMvVig&quot;]/div[@class=&quot;FooterIconsstyles__Root-zkk858-0 hVgVaE&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 jdttix&quot;]/div[@class=&quot;FooterIconsstyles__Wrapper-zkk858-1 jxUrzX&quot;]/div[@class=&quot;FooterIconsstyles__Social-zkk858-3 kPTPoo&quot;]/div[1]/p[1]/a[2]/svg[1]/path[1][count(. | //path[@d = 'M20.613 11.46c.006.147.009.293.009.44 0 4.496-3.333 9.679-9.428 9.679a9.204 9.204 0 0 1-5.08-1.528 6.54 6.54 0 0 0 4.906-1.409c-1.45-.028-2.674-1.011-3.095-2.362a3.236 3.236 0 0 0 1.497-.058c-1.517-.313-2.659-1.688-2.659-3.335v-.043c.447.254.958.407 1.501.425a3.427 3.427 0 0 1-1.474-2.831c0-.624.163-1.208.449-1.71 1.634 2.058 4.076 3.411 6.83 3.553a3.494 3.494 0 0 1-.086-.775c0-1.878 1.484-3.4 3.314-3.4a3.27 3.27 0 0 1 2.418 1.073 6.514 6.514 0 0 0 2.105-.825 3.397 3.397 0 0 1-1.458 1.882 6.514 6.514 0 0 0 1.904-.536 6.836 6.836 0 0 1-1.653 1.76M13.989.686C6.727.685.839 6.73.839 14.182c0 7.454 5.888 13.496 13.15 13.496 7.261 0 13.147-6.042 13.147-13.496C27.136 6.73 21.25.685 13.99.685' and @fill = '#fff' and @fill-rule = 'evenodd']) = count(//path[@d = 'M20.613 11.46c.006.147.009.293.009.44 0 4.496-3.333 9.679-9.428 9.679a9.204 9.204 0 0 1-5.08-1.528 6.54 6.54 0 0 0 4.906-1.409c-1.45-.028-2.674-1.011-3.095-2.362a3.236 3.236 0 0 0 1.497-.058c-1.517-.313-2.659-1.688-2.659-3.335v-.043c.447.254.958.407 1.501.425a3.427 3.427 0 0 1-1.474-2.831c0-.624.163-1.208.449-1.71 1.634 2.058 4.076 3.411 6.83 3.553a3.494 3.494 0 0 1-.086-.775c0-1.878 1.484-3.4 3.314-3.4a3.27 3.27 0 0 1 2.418 1.073 6.514 6.514 0 0 0 2.105-.825 3.397 3.397 0 0 1-1.458 1.882 6.514 6.514 0 0 0 1.904-.536 6.836 6.836 0 0 1-1.653 1.76M13.989.686C6.727.685.839 6.73.839 14.182c0 7.454 5.888 13.496 13.15 13.496 7.261 0 13.147-6.042 13.147-13.496C27.136 6.73 21.25.685 13.99.685' and @fill = '#fff' and @fill-rule = 'evenodd'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M20.613 11.46c.006.147.009.293.009.44 0 4.496-3.333 9.679-9.428 9.679a9.204 9.204 0 0 1-5.08-1.528 6.54 6.54 0 0 0 4.906-1.409c-1.45-.028-2.674-1.011-3.095-2.362a3.236 3.236 0 0 0 1.497-.058c-1.517-.313-2.659-1.688-2.659-3.335v-.043c.447.254.958.407 1.501.425a3.427 3.427 0 0 1-1.474-2.831c0-.624.163-1.208.449-1.71 1.634 2.058 4.076 3.411 6.83 3.553a3.494 3.494 0 0 1-.086-.775c0-1.878 1.484-3.4 3.314-3.4a3.27 3.27 0 0 1 2.418 1.073 6.514 6.514 0 0 0 2.105-.825 3.397 3.397 0 0 1-1.458 1.882 6.514 6.514 0 0 0 1.904-.536 6.836 6.836 0 0 1-1.653 1.76M13.989.686C6.727.685.839 6.73.839 14.182c0 7.454 5.888 13.496 13.15 13.496 7.261 0 13.147-6.042 13.147-13.496C27.136 6.73 21.25.685 13.99.685</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#fff</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/footer[@class=&quot;Footerstyles__Root-sdvvou-0 cMvVig&quot;]/div[@class=&quot;FooterIconsstyles__Root-zkk858-0 hVgVaE&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 jdttix&quot;]/div[@class=&quot;FooterIconsstyles__Wrapper-zkk858-1 jxUrzX&quot;]/div[@class=&quot;FooterIconsstyles__Social-zkk858-3 kPTPoo&quot;]/div[1]/p[1]/a[2]/svg[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

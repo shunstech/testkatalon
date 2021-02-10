@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderEntity>
+   <description></description>
+   <name>SpaceSanitySuites</name>
+   <tag></tag>
+   <folderType>TESTSUITE</folderType>
+</FolderEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderEntity>
+   <description></description>
+   <name>SpaceSanitySuites</name>
+   <tag></tag>
+   <folderType>TESTSUITE</folderType>
+</FolderEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

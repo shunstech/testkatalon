@@ -1,0 +1,89 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>5ec425c7-ab06-4fc4-9323-d32d49687a6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M228.533 82.13l-25.867-61.78-24.429 61.78h-17.233L195.356.3h16.26l34.351 81.83h-17.434z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#FFF</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Logo-sc-8m1q4x-3 eJvmEA&quot;]/a[1]/svg[1]/g[1]/path[3]</value>
+   </webElementProperties>
+</WebElementEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>5ec425c7-ab06-4fc4-9323-d32d49687a6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M228.533 82.13l-25.867-61.78-24.429 61.78h-17.233L195.356.3h16.26l34.351 81.83h-17.434z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#FFF</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[1]/div[@class=&quot;Masterstyles__Root-sc-5xhbmh-0 hcQHET&quot;]/div[@class=&quot;Masterstyles__HeaderWrapper-sc-5xhbmh-4 bISbbj&quot;]/header[@class=&quot;Headerstyles__Root-sc-8m1q4x-1 iUIrCY&quot;]/div[@class=&quot;basestyles__Container-sc-1odkkkx-0 Headerstyles__BaseContainer-sc-8m1q4x-0 iAleHS&quot;]/div[@class=&quot;Headerstyles__HeaderGrid-sc-8m1q4x-2 cgTUxG&quot;]/div[@class=&quot;Headerstyles__Logo-sc-8m1q4x-3 eJvmEA&quot;]/a[1]/svg[1]/g[1]/path[3]</value>
+   </webElementProperties>
+</WebElementEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests

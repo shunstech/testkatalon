@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log Out</name>
+   <tag></tag>
+   <elementGuidId>b60fbc17-0c77-4801-9984-4f3abf09df3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div/div/div[2]/div[3]/div/div[2]/div[2]/div[2]/div/div[3]/div[11]/div/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Shared__Text-sc-1eqascn-3.kXaoji</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>13px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-weight</name>
+      <type>Main</type>
+      <value>bold</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>letter-spacing</name>
+      <type>Main</type>
+      <value>-0.5px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary.contrastText</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Shared__Text-sc-1eqascn-3 kXaoji</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Out</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;Shared__Box-sc-1eqascn-0 Layout__VerticalLayout-sc-19fsl89-0 hokJcH djuQBb&quot;]/div[1]/div[@class=&quot;Shared__Box-sc-1eqascn-0 cvZnKT&quot;]/div[@class=&quot;Shared__Container-sc-1eqascn-4 SEHle&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 LeeSf&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 kQlGMy&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 duLYth&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 Shared__Overlay-sc-1eqascn-5 cKJVrU bqpKHc&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 DefaultProfileMenu__Wrapper-sc-167frvj-2 dlfUZG kVpPjf&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 DefaultProfileMenu__Scrollable-sc-167frvj-3 iDbkeY liNZIy&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 cFdSJu&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 dOnCzX&quot;]/div[@class=&quot;Shared__Box-sc-1eqascn-0 DefaultProfileMenu__LogOut-sc-167frvj-1 kYmQBM BjWTX&quot;]/a[1]/div[@class=&quot;Shared__Box-sc-1eqascn-0 iRHcBv&quot;]/span[@class=&quot;Shared__Text-sc-1eqascn-3 kXaoji&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/div/div[2]/div[3]/div/div[2]/div[2]/div[2]/div/div[3]/div[11]/div/a/div/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Communication'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[2]/preceding::span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log Out']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/a/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>

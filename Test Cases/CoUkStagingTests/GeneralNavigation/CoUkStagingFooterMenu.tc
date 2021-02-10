@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CoUkStagingFooterMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56ed8ecf-84bd-4ef4-8245-1097fad60beb</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CoUkStagingFooterMenu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56ed8ecf-84bd-4ef4-8245-1097fad60beb</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> branch 'master' of https://github.com/WhiteOrg/SCAutoTests
